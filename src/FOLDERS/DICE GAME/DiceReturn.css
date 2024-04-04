@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.dice {
+  width: 150px;
+  height: 150px;
+}
+.dice-1 {
+  background-image: url(../assets/dice-1.svg);
+}
+.dice-2 {
+  background-image: url(../assets/dice-2.svg);
+}
+.dice-3 {
+  background-image: url(../assets/dice-3.svg);
+}
+.dice-4 {
+  background-image: url(../assets/dice-4.svg);
+}
+.dice-5 {
+  background-image: url(../assets/dice-5.svg);
+}
+.dice-6 {
+  background-image: url(../assets/dice-6.svg);
+}

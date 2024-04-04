@@ -1,0 +1,26 @@
+.home {
+  display: flex;
+  gap: 70px;
+}
+h1 {
+  font-size: 40px;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  text-align: center;
+  margin-bottom: 25px;
+}
+p {
+  font-size: 18px;
+}
+
+.blop {
+  width: 420px;
+  position: absolute;
+}
+.shaking {
+  position: relative;
+  top: 0;
+  left: 40px;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
